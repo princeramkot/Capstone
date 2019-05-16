@@ -1,0 +1,71 @@
+@import "http://fonts.googleapis.com/css?family=Arvo"
+/* Above line is used for online Google font */
+
+hr{
+border:0;
+border-top:1px solid #ccc;
+margin-bottom:-10px
+}
+div#main{
+
+width:450px;
+height:250px;
+margin:0 auto;
+padding-top: 80px;
+font-family:'Arvo',serif
+}
+div#first{
+width:350px;
+height:250px;
+padding:0 25px 20px;
+float:left;
+text-align:center
+}
+.btn{
+width:260px;
+height:50px;
+margin-left:45px
+}
+.btn1{
+width:260px;
+height:85px;
+margin-left:42px
+}
+.button3{
+color:#fff;
+padding:20px 100px;
+border:none;
+outline:none;
+font-size:20px;
+text-shadow:-2px 2px 0 rgba(0,0,0,0.2);
+font-weight:700;
+transition:all .1s linear;
+background:linear-gradient(to bottom,#bced7f,#f1c40f );
+box-shadow:-1px 0 1px #80d01d,0 1px 1px #80d01d,-2px 1px 1px #80d01d,-1px 2px 1px #80d01d,-3px 2px 1px #80d01d,-2px 3px 1px #80d01d,-4px 3px 1px #80d01d,-3px 4px 1px #80d01d,-5px 4px 1px #80d01d,-4px 5px 1px #72ba1a,-6px 5px 1px #72ba1a
+}
+.button3:active{
+box-shadow:none;
+-moz-transform:translate3d(-6px,6px,0);
+-ms-transform:translate3d(-6px,6px,0);
+-webkit-transform:translate3d(-6px,6px,0);
+transform:translate3d(-6px,6px,0)
+}
+.button4{
+color:#fff;
+padding:20px 70px;
+border:none;
+outline:none;
+font-size:20px;
+text-shadow:-2px 2px 0 rgba(0,0,0,0.2);
+font-weight:700;
+transition:all .1s linear;
+background:linear-gradient(to bottom,#bced7f, #f1c40f );
+box-shadow:-1px 0 1px  #f1c40f ,0 1px 1px  #f1c40f ,-2px 1px 1px  #f1c40f ,-1px 2px 1px  #f1c40f ,-3px 2px 1px  #f1c40f ,-2px 3px 1px #584938,-4px 3px 1px #584938,-3px 4px 1px #493c2e,-5px 4px 1px #493c2e,-4px 5px 1px #493c2e,-6px 5px 1px #493c2e
+}
+.button4:active{
+box-shadow:none;
+-moz-transform:translate3d(-6px,6px,0);
+-ms-transform:translate3d(-6px,6px,0);
+-webkit-transform:translate3d(-6px,6px,0);
+transform:translate3d(-6px,6px,0)
+}
